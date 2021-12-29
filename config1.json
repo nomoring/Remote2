@@ -1,0 +1,15 @@
+{
+  "version_code": 2,
+  "redirect_mode": true,
+  "new_package": "com.funnmedia.waterminder",
+  "remot_ads": true,
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "download_status": false,
+  "search_status": true,
+  "folder_status": true,
+  "subscribe_status": true,
+  "downloadUrl": "https://play.google.com/store/apps/details?id=",
+  "imageUrl": "https://k.kakaocdn.net/dn/dtGBVW/btq9Nt8f2yG/3FVqk4OSnN0lxfXsbDKix0/img.png"
+}
