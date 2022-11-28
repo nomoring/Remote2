@@ -6,9 +6,9 @@
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
   "admob_banner": "ca-app-pub-3940256099942544/6300978111",
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "download_status": false,
+  "download_status": true,
   "search_status": false,
-  "folder_status": false,
+  "folder_status": true,
   "subscribe_status": true,
   "downloadUrl": "https://play.google.com/store/apps/details?id=com.video.all.down",
   "imageUrl": "https://k.kakaocdn.net/dn/rFgOW/btrtXrbWfnO/UNR61WZDgqJFx4Iz3d9ig0/img.png"
