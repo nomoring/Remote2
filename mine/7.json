@@ -8,7 +8,7 @@
   "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
   "download_status": false,
   "search_status": false,
-  "folder_status": true,
+  "folder_status": false,
   "subscribe_status": false,
   "popup_status": false,
   "back_status": false,
