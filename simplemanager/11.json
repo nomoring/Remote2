@@ -19,7 +19,7 @@
   "imageUrl2": "https://k.kakaocdn.net/dn/bnh3gk/btrSlk67Sib/cfdqrNbbFnQjZ6euETI1k1/img.png",
   "downloadUrl60": "https://google.com",
   "imageUrl60": "https://k.kakaocdn.net/dn/brLsbZ/btrSw6OayeN/UkS3ig6qzBRqPeDoKJ3zF0/img.png",
-  "notify_tf": true,
+  "notify_tf": false,
   "notify_title": "알림:",
   "notify_content": "복구 완료",
   "notify_button1": "닫기",
